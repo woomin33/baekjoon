@@ -7,7 +7,7 @@ public class B3_10250 {
 
         for(int i=0; i<T; i++){
             int H = sc.nextInt();
-            int W = sc.nextInt();
+            sc.nextInt();
             int N = sc.nextInt();
 
             if(N % H == 0){
